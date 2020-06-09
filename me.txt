@@ -1,1 +1,1 @@
-Springcloud config
+Springcloud config 配置中心
